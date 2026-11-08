@@ -30,4 +30,4 @@ Foram utilizadas cores azul escuro, branco e cinza claro para deixar o site simp
 
 ## Link do site
 
-Será adicionado após a publicação no GitHub Pages.
+https://joaod997.github.io/mundo-cs/
